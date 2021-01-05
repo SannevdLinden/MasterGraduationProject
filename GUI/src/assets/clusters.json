@@ -1,0 +1,103 @@
+{
+    "clusters" : [
+        {
+            "id" : 0, 
+            "name" : "admission_0",
+            "title" : "Admission", 
+            "department" : ["Admission", "ECG", "Radiology", "Discharge Summary"],
+            "date_start" : "03-04-1960",
+            "date_stop" : "07-04-1960", 
+            "drugs_words" : ["Benazepril 40mg", "Fosinopril 50mg", "Moexipril 40mg"],
+            "disease_words" : ["Arrhythmia", "Weak heart", "Shortness of breath", "Pain in chest"],
+            "procedure_words" : ["ECG", "Examination", "Medication", "IV", "Slight sedative" ],
+            "bookmark" : false
+        },
+        {
+        "id" : 1, 
+        "name" : "check_up_0",
+        "title" : "Check-ups", 
+        "department" : ["ECG"],
+        "date_start" : "12-04-1960",
+        "date_stop" : "14-04-1960", 
+        "drugs_words" : [],
+        "disease_words" : ["Pheumonia", "Trouble Breathing", "Cough", "Infection"],
+        "procedure_words" : ["Monitoring", "Medication", "Blood Test", "Medication", "Levofloxacin" ],
+        "bookmark" : false
+        }, 
+        {
+            "id" : 2, 
+            "name" : "admission_1",
+            "title" : "Admission", 
+            "department" : ["Admission", "ECG", "Discharge Summary"],
+            "date_start" : "12-11-1963",
+            "date_stop" : "16-11-1963", 
+            "drugs_words" : ["Anxious", "Place", "ER", "Ambulance", "Hospital"],
+            "disease_words" : ["Arrhythmia", "Weak heart", "Symptom" , "Shortness of breath", "Pain in chest"],
+            "procedure_words" : ["ECG", "Examination", "Medication", "IV", "Slight sedative" ],
+            "bookmark" : false
+        }, 
+        {
+            "id" : 3, 
+            "name" : "check_up_1",
+            "title" : "Check-ups", 
+            "department" : ["Radiology"],
+            "date_start" : "05-06-1967",
+            "date_stop" : "07-06-1967", 
+            "drugs_words" : [],
+            "disease_words" : ["infarct"],
+            "procedure_words" : [],
+            "bookmark" : false
+            }, 
+            {
+                "id" : 4, 
+                "name" : "check_up_2",
+                "title" : "Check-ups", 
+                "department" : ["Radiology"],
+                "date_start" : "05-06-1967",
+                "date_stop" : "30-06-1967", 
+                "drugs_words" : [],
+                "disease_words" : ["pacemaker"],
+                "procedure_words" : [ ],
+                "bookmark" : false
+                },
+            {
+                "id" : 5, 
+                "name" : "check_up_3",
+                "title" : "Check-ups", 
+                "department" : ["Radiology"],
+                "date_start" : "12-06-1967",
+                "date_stop" : "12-06-1967", 
+                "drugs_words" : [],
+                "disease_words" : ["Pheumonia", "Trouble Breathing", "Cough", "Infection"],
+                "procedure_words" : [ ],
+                "bookmark" : false
+                }, 
+                {
+                    "id" : 6, 
+                    "name" : "admission_2",
+                    "title" : "Admission", 
+                    "department" : ["Admission", "ECG", "Radiology", "Discharge Summary"],
+                    "date_start" : "03-04-1985",
+                    "date_stop" : "07-04-1985", 
+                    "drugs_words" : ["Benazepril 40mg", "Fosinopril 50mg", "Moexipril 40mg"],
+                    "disease_words" : ["Arrhythmia", "Weak heart", "Shortness of breath", "Pain in chest"],
+                    "procedure_words" : ["ECG", "Examination", "Medication", "IV", "Slight sedative" ],
+                    "bookmark" : false
+                }, 
+                {
+                    "id" : 7, 
+                    "name" : "check_up_4",
+                    "title" : "Check-ups", 
+                    "department" : ["ECG"],
+                    "date_start" : "14-04-1985",
+                    "date_stop" : "14-04-1985", 
+                    "drugs_words" : [],
+                    "disease_words" : ["arrhythmia"],
+                    "procedure_words" : [ ],
+                    "bookmark" : true
+                    }
+
+
+        
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "Notes": [     
+    {
+        "id" : 0,
+        "date_start" : "03-04-1960",
+        "cluster" : "admission_0",
+        "title" : "Admission",
+        "department" : ["Admission"],
+        "bookmark" : false,
+        "text" : "The patient entered the hospital in the ER department with an ambulance. The ambulance personal mentioned that the patient is not in immediate life threatening danger. The patient has shortness of breath and pain in the chest.  This in combination with a previous heart condition request further monitoring. An ECG should be made to determine the heart's condition. Based on first impression is could be arrhythmia. IV was inserted and a slight sedative and aspirin were given. For now the patient is waiting in the ER for the ECG exam. "
+    }, 
+    {
+        "id" : 1,
+        "date_start" : "03-04-1960",
+        "cluster" : "admission_0",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "After further physical examination the patient probably has arrhythmia which in combination with his weak heart needs to be monitored closely. Doctor Monique Vermeulen decided after the ECG from 05-11 that the arrhythmia was not so severe that cardioversion was needed now. Medication was used to regulate heart rhythm. "
+    }, 
+    {
+        "id" : 2,
+        "date_start" : "04-04-1960",
+        "cluster" : "admission_0",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG of 03-04 the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 3,
+        "date_start" : "04-04-1960",
+        "cluster" : "admission_0",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG of 04-04 the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 4,
+        "date_start" : "05-04-1960",
+        "cluster" : "admission_0",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 5,
+        "date_start" : "05-04-1960",
+        "cluster" : "admission_0",
+        "title" : "Radiology",
+        "department" : ["Radiology"],
+        "bookmark" : false,
+        "text" : "Thorax image with contrast. Reason: want to know the status of the heart tissue. findings: can see the infact in the heart and further examination is needed."
+    },
+    {
+        "id" : 6,
+        "date_start" : "07-04-1960",
+        "cluster" : "admission_0",
+        "title" : "Discharge Summary",
+        "department" : ["Discharge Summary"],
+        "bookmark" : false,
+        "text" : "Patient entered the hospital with arrhytmia and ecg and radiology exams were done. By medication the arrhytmia was controlled and the patient was discharged with the following medication: Benazepril 40mg, Fosinopril 50mg, Moexipril 40mg. The patient needs to come back to the hospital for several check-up with doctor Y in two weeks."
+    }, 
+    {
+        "id" : 7,
+        "date_start" : "12-04-1960",
+        "cluster" : "check_up_0",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG of 05-11 the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 8,
+        "date_start" : "14-04-1960",
+        "cluster" : "check_up_0",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG of 05-11 the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 9,
+        "date_start" : "12-11-1963",
+        "cluster" : "admission_1",
+        "title" : "Admission",
+        "department" : ["Admission"],
+        "bookmark" : false,
+        "text" : "The patient entered the hospital in the ER department with an ambulance. The ambulance personal mentioned that the patient is not in immediate life threatening danger. The patient has shortness of breath and pain in the chest.  This in combination with a previous heart condition request further monitoring. An ECG should be made to determine the heart's condition. Based on first impression is could be arrhythmia. IV was inserted and a slight sedative and aspirin were given. For now the patient is waiting in the ER for the ECG exam. "
+    },
+    {
+        "id" : 10,
+        "date_start" : "13-11-1963",
+        "cluster" : "admission_1",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "After further physical examination the patient probably has arrhythmia which in combination with his weak heart needs to be monitored closely. Doctor Monique Vermeulen decided after the ECG from 05-11 that the arrhythmia was not so severe that cardioversion was needed now. Medication was used to regulate heart rhythm. "
+    }, 
+    {
+        "id" : 11,
+        "date_start" : "14-11-1963",
+        "cluster" : "admission_1",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG of 03-04 the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 12,
+        "date_start" : "14-11-1963",
+        "cluster" : "admission_1",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG of 04-04 the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 13,
+        "date_start" : "16-11-1963",
+        "cluster" : "admission_1",
+        "title" : "Discharge Summary",
+        "department" : ["Discharge Summary"],
+        "bookmark" : false,
+        "text" : "Patient entered the hospital with arrhytmia and ecg and radiology exams were done. By medication the arrhytmia was controlled and the patient was discharged with the following medication: Benazepril 40mg, Fosinopril 50mg, Moexipril 40mg. The patient needs to come back to the hospital for several check-up with doctor Y in two weeks."
+    }, 
+    {
+        "id" : 14,
+        "date_start" : "05-06-1967",
+        "cluster" : "check_up_1",
+        "title" : "Radiology",
+        "department" : ["Radiology"],
+        "bookmark" : false,
+        "text" : "Thorax image with contrast. Reason: want to know the status of the heart tissue. findings: can see the infact in the heart and further examination is needed."
+    },
+    {
+        "id" : 15,
+        "date_start" : "05-06-1967",
+        "cluster" : "check_up_2",
+        "title" : "Radiology",
+        "department" : ["Radiology"],
+        "bookmark" : false,
+        "text" : "Thorax image: the heart is very weak and a pacemaker is needed"
+    },
+    {
+        "id" : 16,
+        "date_start" : "07-06-1967",
+        "cluster" : "check_up_1",
+        "title" : "Radiology",
+        "department" : ["Radiology"],
+        "bookmark" : false,
+        "text" : "Thorax image with contrast. Reason: want to know the status of the heart tissue. findings: can see the infact in the heart and further examination is needed."
+    },
+    {
+        "id" : 17,
+        "date_start" : "12-06-1967",
+        "cluster" : "check_up_3",
+        "title" : "Radiology",
+        "department" : ["Radiology"],
+        "bookmark" : false,
+        "text" : "Thorax image with contrast. Reason: want to know the status of the lung. findings: pneumonia."
+    },
+    
+    {
+        "id" : 18,
+        "date_start" : "30-06-1967",
+        "cluster" : "check_up_2",
+        "title" : "Radiology",
+        "department" : ["Radiology"],
+        "bookmark" : false,
+        "text" : "Pacemaker was placed in other clinic and this image is to check if it is healed correctly. In the image the pacemaker and surrounding tissue is clearly visible and healed without complitcation."
+    }, 
+    {
+        "id" : 19,
+        "date_start" : "03-04-1985",
+        "cluster" : "admission_2",
+        "title" : "Admission",
+        "department" : ["Admission"],
+        "bookmark" : false,
+        "text" : "The patient entered the hospital in the ER department with an ambulance. The ambulance personal mentioned that the patient is not in immediate life threatening danger. The patient has shortness of breath and pain in the chest.  This in combination with a previous heart condition request further monitoring. An ECG should be made to determine the heart's condition. Based on first impression is could be arrhythmia. IV was inserted and a slight sedative and aspirin were given. For now the patient is waiting in the ER for the ECG exam. "
+    }, 
+    {
+        "id" : 20,
+        "date_start" : "03-04-1985",
+        "cluster" : "admission_2",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "After further physical examination the patient probably has arrhythmia which in combination with his weak heart needs to be monitored closely. Doctor Monique Vermeulen decided after the ECG from 05-11 that the arrhythmia was not so severe that cardioversion was needed now. Medication was used to regulate heart rhythm. "
+    }, 
+    {
+        "id" : 21,
+        "date_start" : "04-04-1985",
+        "cluster" : "admission_2",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG of 03-04 the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 22,
+        "date_start" : "04-04-1985",
+        "cluster" : "admission_2",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG of 04-04 the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 23,
+        "date_start" : "05-04-1985",
+        "cluster" : "admission_2",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }, 
+    {
+        "id" : 24,
+        "date_start" : "05-04-1985",
+        "cluster" : "admission_2",
+        "title" : "Radiology",
+        "department" : ["Radiology"],
+        "bookmark" : false,
+        "text" : "Thorax image with contrast. Reason: want to know the status of the heart tissue. findings: can see the infact in the heart and further examination is needed."
+    },
+    {
+        "id" : 25,
+        "date_start" : "07-04-1985",
+        "cluster" : "admission_2",
+        "title" : "Discharge Summary",
+        "department" : ["Discharge Summary"],
+        "bookmark" : true,
+        "text" : "Patient entered the hospital with arrhytmia and ecg and radiology exams were done. By medication the arrhytmia was controlled and the patient was discharged with the following medication: Benazepril 40mg, Fosinopril 50mg, Moexipril 40mg. The patient needs to come back to the hospital for several check-up with doctor Y in two weeks."
+    }, 
+    {
+        "id" : 26,
+        "date_start" : "14-04-1985",
+        "cluster" : "check_up_4",
+        "title" : "ECG",
+        "department" : ["ECG"],
+        "bookmark" : false,
+        "text" : "Compared to the previous ECG of 04-04 the arrhythmia has regulated more. In two days the heart rhythm needs to be checked again to see if the patient can be discharged. Medication can be decreased. "
+    }
+
+
+    ] 
+}

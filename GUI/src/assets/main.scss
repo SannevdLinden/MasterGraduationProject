@@ -1,0 +1,23 @@
+// Customizations Here (Optional)
+
+// Bulma Import
+@import '~bulma';
+
+:root {
+    --lightest-grey: #F2F2F2;
+    --light-grey: #CECDCD;
+    --grey: #B3B2B2;
+    --dark-grey: #808080;
+    --darkest-grey: #474745;
+    --red: #A50F15;
+    --blue: #2C7FB8;
+    --blue-opac: rgba(44, 127, 184, 0.3);
+    --blue-opac-mid: rgba(44, 127, 184, 0.6);
+    --green:#ffd500;
+    --green-button: #74C476;
+    --orange: #DB7303;
+    --orange-opac: rgba(219, 115, 3, 0.3);
+    --orange-opac-mid: rgba(219, 115, 3, 0.6);
+    --grey-opac: rgba(179,178,178, 0.3);
+    --grey-opac-mid: rgba(179,178,178, 0.6);
+}
