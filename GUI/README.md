@@ -1,4 +1,5 @@
-# gui
+# GUI 
+It is optimized for use in Chrome browser.
 
 ## Project setup
 1. Install npm via node.js: https://www.npmjs.com/get-npm
