@@ -2,4 +2,4 @@
 
 This folder contains the GUI and the data analysis for the GUI of my master thesis research project. In order to run certain pieces of the code a UMLS ( https://www.nlm.nih.gov/databases/umls.html) and MIMIC-III (Johnson, A., Pollard, T., & Mark, R. (2016). MIMIC-III Clinical Database (version 1.4). PhysioNet. https://doi.org/10.13026/C2XW26) license are needed. You need to obtain these licenses for yourself in order to run the complete code. The GUI and data_analysis folders README files explain for which files these license are needed.
 
-For a video of the working prototype see: 
+For a video of the working prototype see: https://youtu.be/_jOJBtkJ5R4 (uses fake data)
