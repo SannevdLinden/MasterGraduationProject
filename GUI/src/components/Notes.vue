@@ -361,6 +361,8 @@ export default {
         setTimeout(() => this.reset(), 100);
       }
       //check which notes have attached quantiative data
+      console.log('quant data buttons');
+      console.log(this.quant_data);
       if (this.notes_id_display[0][1]) {
         for (let i = 0; i < this.notes_id_display[0][1].length; i++) {
           if (this.quant_data.has(this.notes_id_display[0][1][i].date_start)) {
@@ -392,11 +394,10 @@ export default {
     //change date format quant data to format date of notes
     for (let i = 0; i < quant_data.length; i++) {
       let day = quant_data[i].date.replaceAll("/", "-");
-      let tmp = day.substring(6, 10);
-      tmp = String(parseInt(tmp) - 130);
-      day = day.substring(0, 6) + tmp;
+      day = day.substring(0, 10);
       this.quant_data.add(day);
     }
+    
   },
 };
 </script>

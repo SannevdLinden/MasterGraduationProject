@@ -253,8 +253,10 @@ export default {
     },
     //if window is resized recalculate the timeline
     windows_size() {
-      console.log("WINDOW RESIZE");
-      this.makeTimeline();
+      if(document.getElementById("timeline")){
+        console.log("WINDOW RESIZE");
+        this.makeTimeline();
+      }
     },
     //calculate the timeline
     makeTimeline() {

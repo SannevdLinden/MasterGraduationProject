@@ -120,14 +120,6 @@ export default {
     //change data in graph if other variable is selected
     change_graph() {
       let data = this.quant_data.filter((data) => data.name == this.selected);
-      for (let i = 0; i < data.length; i++) {
-        let year = data[i].date;
-        year = year.substring(6, 10);
-        year = String(parseInt(year) - 130);
-        data[i].date =
-          data[i].date.substring(0, 6) + year + data[i].date.substring(10, 16);
-      }
-
       console.log(data);
       let unit = "";
       if (data.length > 0 && data[0].unit != "None") {
@@ -195,9 +187,7 @@ export default {
         this.names_this_day = [];
         let day = this.full_screen_note[1].date_start;
         day = day.replaceAll("-", "/");
-        let tmp = day.substring(6, 10);
-        tmp = String(parseInt(tmp) + 130);
-        day = day.substring(0, 6) + tmp;
+        day = day.substring(0, 10);
         for (let i = 0; i < this.name_multiple_occ.length; i++) {
           let filter = this.quant_data.filter(
             (data) => data.name == this.name_multiple_occ[i]
