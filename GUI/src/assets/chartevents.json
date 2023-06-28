@@ -1,0 +1,107 @@
+[
+    {
+        "id": 0,
+        "date": "03/04/1960 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 61.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 1,
+        "date": "04/04/1960 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 62.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 2,
+        "date": "05/04/1960 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 61.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 3,
+        "date": "07/04/1960 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 65.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 4,
+        "date": "12/04/1960 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 67.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 5,
+        "date": "14/04/1960 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 70.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 6,
+        "date": "12/11/1963 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 60.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 7,
+        "date": "13/11/1963 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 60.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 8,
+        "date": "14/11/1963 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 67.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 9,
+        "date": "16/11/1963 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 90.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 10,
+        "date": "03/04/1985 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 86.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 11,
+        "date": "04/04/1985 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 82.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 12,
+        "date": "05/04/1985 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 70.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 13,
+        "date": "07/04/1985 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 65.0,
+        "unit": "mmHg"
+    },
+    {
+        "id": 14,
+        "date": "14/04/1985 21:16",
+        "name": "Arterial BP (systollic)",
+        "value": 80.0,
+        "unit": "mmHg"
+    }
+]

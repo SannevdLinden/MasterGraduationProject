@@ -1,0 +1,161 @@
+{
+    "check_up_0": {
+        "disease": [            
+            [
+                "Heart Diseases [96%]",
+                [
+                    "the arrhythmia has regulated more", 
+                    "the heart rhythm"
+                    
+                ]
+            
+            ]
+        ],
+        "drug": [],
+        "procedure": [
+        ]
+    },
+    "check_up_1": {
+        "disease": [
+            [
+                "Heart infarct [89%]",
+                [
+                    "the infact in the heart"
+                   ]
+            ]
+        ],
+        "drug": [],
+        "procedure": [[
+            "CT Image [98%]", 
+            [
+                "Thorax image with contrast"
+            ]]
+        ]
+
+    }, 
+    "check_up_2": {
+        "disease": [
+        ],
+        "drug": [],
+        "procedure": [[
+            "CT Image [98%]", 
+            [
+                "Thorax image with contrast"
+            ], 
+            "Heart probes", 
+            ["Pacemaker", "pacemaker"]
+        ]]
+    }, 
+    "check_up_3": {
+        "disease": [
+            [
+                "Pneumothorax [89%]",
+                [
+                  "pneumonia" ]
+            ]
+        ],
+        "drug": [],
+        "procedure": [
+        ]
+    }, 
+    "check_up_4": {
+        "disease": [
+            [                
+                "arrhythmia [89%]",
+                [
+                    "arrhythmia has regulated more. In two days the heart rhythm needs to be checked again"
+                   ]
+            ]
+            
+        ],
+        "drug": [],
+        "procedure": [
+        ]
+    }, 
+    "admission_0": {
+        "disease": [
+            [
+                "Heart failure [89%]",
+                [
+                    "This in combination with a previous heart condition", 
+                    "combination with his weak heart"
+                   ]
+            ],
+            [
+                "arrhythmia [86%]",
+                [
+                    "the patient probably has arrhythmia", 
+                    "the arrhythmia was not so severe that cardioversion was needed", 
+                    "the arrhythmia has regulated"
+                ]
+            
+            ]
+        ],
+        "drug": [ ["Heart regulation medication", 
+            [
+                "Benazepril 40mg, Fosinopril 50mg, Moexipril 40mg"
+            ]]
+
+        ],
+        "procedure": [
+        ]
+    }, 
+    "admission_1": {
+        
+        "disease": [
+            [
+                "Heart failure [89%]",
+                [
+                    "This in combination with a previous heart condition", 
+                    "combination with his weak heart"
+                   ]
+            ],
+            [
+                "arrhythmia [86%]",
+                [
+                    "the patient probably has arrhythmia", 
+                    "the arrhythmia was not so severe that cardioversion was needed", 
+                    "the arrhythmia has regulated"
+                ]
+            
+            ]
+        ],
+        "drug": [ ["Heart regulation medication", 
+            [
+                "Benazepril 40mg, Fosinopril 50mg, Moexipril 40mg"
+            ]]
+
+        ],
+        "procedure": [
+        ]
+    }, 
+    "admission_2": {
+        
+        "disease": [
+            [
+                "Heart failure [89%]",
+                [
+                    "This in combination with a previous heart condition", 
+                    "combination with his weak heart"
+                   ]
+            ],
+            [
+                "arrhythmia [86%]",
+                [
+                    "the patient probably has arrhythmia", 
+                    "the arrhythmia was not so severe that cardioversion was needed", 
+                    "the arrhythmia has regulated"
+                ]
+            
+            ]
+        ],
+        "drug": [ ["Heart regulation medication", 
+            [
+                "Benazepril 40mg, Fosinopril 50mg, Moexipril 40mg"
+            ]]
+
+        ],
+        "procedure": [
+        ]
+    }
+}

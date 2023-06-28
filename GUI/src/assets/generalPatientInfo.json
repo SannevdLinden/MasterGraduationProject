@@ -1,0 +1,26 @@
+{
+    "generalPatientInfo" :{
+        "name" : "Jan Jansen",
+        "gender" : "M",
+        "age": "55 (17 May 1930)",
+        "height" : 1.60,
+        "weight" : 60,        
+        "allergies" : "Penicillins",         
+        "medical_staff" : "Doctor X", 
+        "history_illness" : "Has had a hart infarct in 1960, for which he was admitted in the emergency department. In 1963 arrhythmia was discovered and the patient was admitted to the hospital for 5 days to get this under control. Several pneumonias in 1967. Got pacemaker in 1970.", 
+        "social_history" : "Smoked for 50 years and multiple packages per week. Work in construnction. Is married and has 2 children with obese symptoms.",
+        "family_history" : "Father had died of heart infarction and mother had high BP.",
+
+        "admission" : "Emergency room admission", 
+        "admission_diagnosis" : "Arrhythmia", 
+        "current_treatment" : "Monitoring",
+        "medication_admission" : "Benazepril 40mg, Fosinopril 50mg, Moexipril 40mg.",
+
+        "latest_admission" : "3 Apr 1985 till 7 Apr 1985",
+        "discharge_location" : "Home care",
+        "discharge_diagnosis" : "arrhythmia", 
+        "lastest_checkup" : "ECG to check if arrhythmia is under control, there were no significant changes.", 
+        "medication_discharge" : "Benazepril 40mg, Fosinopril 50mg, Moexipril 40mg."
+
+    }
+}
